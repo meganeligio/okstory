@@ -68,7 +68,7 @@ b {
     letter-spacing: 5px;
     height: 26px;
     line-height: 26px;
-    /* font: 26px 'doto'; */
+    font: 26px 'Doto', sans-serif;
     border-bottom: 2px dotted #ddd;
     padding-bottom: 4px;
 }
