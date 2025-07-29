@@ -21,6 +21,10 @@ body {
     letter-spacing: 1px;
 }
 
+p {
+    margin-top: 6px;
+}
+
 #header1 {
     float: left;
     margin: 0 auto;
@@ -205,6 +209,7 @@ textarea {
     background: transparent;
 }
 
+
 /* STORY */
 
 .container {
@@ -229,7 +234,8 @@ section {
 section p {
     font-size: 14px;
     text-align: justify;
-    line-height: 16px;
+    line-height: 18px;
+    margin-bottom: 15px;
 }
 
 header {
@@ -238,4 +244,18 @@ header {
 
 header a {
     font-size: 12px;
+}
+
+.paragraph-break {
+    margin-bottom: 100px;
+}
+
+.ending {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 600;
+    color: #E4AFA7;
+    margin-bottom: 50px;
+    text-align: center;
 }
