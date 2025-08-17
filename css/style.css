@@ -176,6 +176,15 @@ b {
 .mtitle a:hover {
     color: #A38985;
 }
+
+.fic-tags {
+    font-style: italic;
+}
+
+.author a {
+    color: #E4AFA7;
+    text-decoration: underline;
+}
   
 .extralinks a {
     font-family: 'Pixelify Sans', sans-serif;
@@ -217,7 +226,7 @@ textarea {
 /* STORY */
 
 .container {
-    max-width: 300px;
+    max-width: 500px;
     margin: 0 auto;
 }
 
@@ -228,6 +237,9 @@ h1 {
     font-weight: 600;
     color: #E4AFA7;
     margin-bottom: 50px;
+    max-width: 400px;
+    text-align: center;
+    line-height: 1;
 }
 
 section {
